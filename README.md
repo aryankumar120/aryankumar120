@@ -1,6 +1,6 @@
 [![MasterHead](https://media3.giphy.com/media/RGyUJwAFjP38P3uEiV/giphy.gif?cid=ecf05e47gix6grgpdi551dck8l6zbgzfj3jkw8psi8oh9whz&ep=v1_gifs_related&rid=giphy.gif&ct=g)](https://aryankumar.io)
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3
+<h3 align="center">A passionate Frontend developer from India</h3
 (img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif")                                                              
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankumar120&label=Profile%20views&color=0e75b6&style=flat" alt="aryankumar120" /> </p>
