@@ -1,4 +1,4 @@
-[![MasterHead]()](https://aryankumar.io)
+[![MasterHead](./github.png)](https://aryankumar.io)
 ![Header](./github.png)
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
 <h3 align="center">A passionate Frontend developer from India</h3
