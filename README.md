@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/RGyUJwAFjP38P3uEiV/giphy.gif?cid=ecf05e47gix6grgpdi551dck8l6zbgzfj3jkw8psi8oh9whz&ep=v1_gifs_related&rid=giphy.gif&ct=g)](https://aryankumar.io)
+[![MasterHead](https://www.behance.net/gallery/28898167/People-Animated-GIFs)](https://aryankumar.io)
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
 <h3 align="center">A passionate Frontend developer from India</h3
 (img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif")                                                              
