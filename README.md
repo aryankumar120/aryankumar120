@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
-<h3 align="center">Data Analyst & AI/ML Specialist | Turning Complex Data into Business Solutions 🚀</h3>
+<h3 align="center">Data Analyst & AI/ML Enthusiast | Turning Complex Data into Business Solutions 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryankumar120&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
