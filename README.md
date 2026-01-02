@@ -1,101 +1,115 @@
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
-<h3 align="center">Data Analyst & AI/ML Enthusiast | Turning Complex Data into Business Solutions 🚀</h3>
+<h3 align="center">Data Science | Machine Learning | GenAI | Software Engineering</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryankumar120&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aryankumar120&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="60" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-</p>
-
-🌟 **Uncovering Hidden Patterns in Data | Driving Strategic Business Decisions**  
-📊 **Advanced Analytics Professional | Machine Learning Implementation Expert**  
-
----
-
-## 🚀 About Me  
-
-📈 **Specialized in predictive modeling, statistical analysis, and data visualization**  
-🧠 **Implemented ML solutions that increased operational efficiency by 35%**  
-💡 **Reduced decision-making time by 40% through automated analytics pipelines**  
-🌐 **Collaborated with cross-functional teams to deliver end-to-end data solutions**  
-🏆 **Recognized for developing innovative visualization techniques for complex datasets**  
-
-📩 **Ready to solve your data challenges → [aryannkr120@gmail.com](mailto:aryannkr120@gmail.com)**  
-
----
-
-## 🛠️ Professional Toolkit  
-
-### **📊 Data Analysis & Visualization**
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="60" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="50" height="50"/></a>
-  <a href="https://looker.com/" target="_blank"><img src="https://seeklogo.com/images/L/looker-logo-F77792DCBD-seeklogo.com.png" alt="Looker" width="50" height="50"/></a>
-</p>
-
-### **💾 Database Management & SQL**
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50"/></a>
-  <a href="https://www.snowflake.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
-</p>
-
-### **🐍 Python & Data Science Stack**
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50"/></a>
-  <a href="https://scipy.org/" target="_blank"><img src="https://scipy.org/images/logo.svg" alt="SciPy" width="50" height="50"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/></a>
-</p>
-
-### **🧠 Machine Learning & AI**
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/></a>
-  <a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/></a>
-  <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="XGBoost" width="50" height="50"/></a>
+  Turning data and ideas into scalable, real-world software and AI solutions.
 </p>
 
 ---
 
-## 🏆 Featured Projects
+## 👨‍💻 About Me
 
-### **Blinkit Dashboard**
-Engineered a comprehensive Power BI dashboard for Blinkit's delivery metrics, reducing reporting time by 70% and enabling real-time performance optimization of delivery operations.
+- Computer Science undergraduate with hands-on experience in **Data Science, ML, GenAI, and Backend Systems**
+- Built **ML models, ETL pipelines, APIs, and AI-powered applications**
+- Comfortable working end-to-end: **data ingestion → modeling → deployment**
+- Interested in solving real-world problems using clean engineering and data-driven approaches
 
-### **Hospital Emergency Room Dashboard**
-Developed an interactive visualization system that tracks patient flow, wait times, and resource allocation, helping hospital administrators reduce average ER wait times by 25%.
-
-### **E-commerce Data Analysis (Python & SQL)**
-Created an end-to-end analysis pipeline combining SQL for data extraction and Python for statistical modeling, uncovering customer purchasing patterns that increased conversion rates by 18%.
+📧 **Email:** aryannkr120@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/aryan-kumar29/
 
 ---
 
-## 📈 GitHub Stats & Analytics  
+## 🛠️ Tech Stack
 
-🔥 **GitHub Contributions & Activity**  
+### 👨‍💻 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+### 🧠 GenAI & NLP
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
+
+---
+
+### ⚙️ Backend & APIs
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST--API-02569B?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### ☁️ Cloud & Data Engineering
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache--Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FF9A00?style=for-the-badge)
+
+---
+
+### 📈 Visualization & BI
+![Power BI](https://img.shields.io/badge/Power--BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+- **MLFlowX – End-to-End MLOps Pipeline**  
+  Built a full ML lifecycle with Flask APIs, JWT auth, and MLflow tracking.
+
+- **Amazon Review Sentiment Analysis**  
+  NLP-based sentiment classification on 50k+ reviews using ML and transformers.
+
+- **Cold Mail Generator (GenAI + RAG)**  
+  Personalized email generation using LangChain, embeddings, and vector search.
+
+- **AI Resume & Cover Letter Generator**  
+  Streamlit-based GenAI app for ATS-friendly resume generation.
+
+- **AWS YouTube Trend Analysis Pipeline**  
+  Serverless ETL pipeline using S3, Glue, Athena, and PySpark.
+
+- **Loan Eligibility Engine**  
+  Event-driven backend system optimizing AI usage via SQL and business logic.
+
+- **Hirrd – Full-Stack Job Portal (Hackathon Winner)**  
+  Scalable job portal with authentication and role-based access.
+
+---
+
+## 📈 GitHub Stats & Analytics
+
+🔥 **GitHub Contributions & Activity**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryankumar120&show_icons=true&theme=react" alt="GitHub Stats" />
 </p>
 
-🚀 **Top Languages Used**  
+🚀 **Top Languages Used**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankumar120&show_icons=true&theme=react&layout=compact" alt="Top Languages" />
 </p>
 
-⚡ **Streak Stats**  
+⚡ **Streak Stats**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankumar120&theme=react" alt="Streak Stats" />
 </p>
@@ -104,21 +118,24 @@ Created an end-to-end analysis pipeline combining SQL for data extraction and Py
 
 ## 🎓 Certifications
 
-- Microsoft Certified: Data Analyst Associate (Power BI)
-- Career Essentials in Data Analysis by Microsoft and LinkedIn
+- Microsoft Certified: Data Analyst Associate (Power BI)  
+- Career Essentials in Data Analysis – Microsoft & LinkedIn  
 
 ---
 
-## 💼 Connect with Me  
+## 💼 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/aryan-kumar29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/aryankumar120" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="40" width="40" /></a>
-<a href="https://medium.com/@aryannkr120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/aryannkr120" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-kumar29/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+</a>
+<a href="https://www.kaggle.com/aryankumar120" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40" width="40" />
+</a>
+<a href="https://medium.com/@aryannkr120" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40" width="40" />
+</a>
+<a href="https://www.codechef.com/users/aryannkr120" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" width="40" />
+</a>
 </p>
-
----
-
-💡 **Let's collaborate on your next data-driven initiative**  
-📬 **Contact me today → [aryannkr120@gmail.com](mailto:aryannkr120@gmail.com)**
