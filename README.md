@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
-<h3 align="center">Data Science | Machine Learning | GenAI | Software Engineering</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryankumar120&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  Turning data and ideas into scalable, real-world software and AI solutions.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=220&section=header&text=Aryan%20Kumar&fontSize=52&fontColor=6ee7b7&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20GenAI%20%&descAlignY=58&descSize=20" />
 </p>
 
 ---
@@ -72,49 +65,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- **MLFlowX – End-to-End MLOps Pipeline**  
-  Built a full ML lifecycle with Flask APIs, JWT auth, and MLflow tracking.
-
-- **Amazon Review Sentiment Analysis**  
-  NLP-based sentiment classification on 50k+ reviews using ML and transformers.
-
-- **Cold Mail Generator (GenAI + RAG)**  
-  Personalized email generation using LangChain, embeddings, and vector search.
-
-- **AI Resume & Cover Letter Generator**  
-  Streamlit-based GenAI app for ATS-friendly resume generation.
-
-- **AWS YouTube Trend Analysis Pipeline**  
-  Serverless ETL pipeline using S3, Glue, Athena, and PySpark.
-
-- **Loan Eligibility Engine**  
-  Event-driven backend system optimizing AI usage via SQL and business logic.
-
-- **Hirrd – Full-Stack Job Portal (Hackathon Winner)**  
-  Scalable job portal with authentication and role-based access.
-
----
-
-## 📈 GitHub Stats & Analytics
-
-🔥 **GitHub Contributions & Activity**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryankumar120&show_icons=true&theme=react" alt="GitHub Stats" />
-</p>
-
-🚀 **Top Languages Used**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankumar120&show_icons=true&theme=react&layout=compact" alt="Top Languages" />
-</p>
-
-⚡ **Streak Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankumar120&theme=react" alt="Streak Stats" />
-</p>
-
----
 
 ## 🎓 Certifications
 
